@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\CA_OnlineStore\CA_OnlineStore\bin\Debug\net8.0\CA_OnlineStore.exe
+C:\Users\DELL\source\repos\CA_OnlineStore\CA_OnlineStore\bin\Debug\net8.0\CA_OnlineStore.deps.json
+C:\Users\DELL\source\repos\CA_OnlineStore\CA_OnlineStore\bin\Debug\net8.0\CA_OnlineStore.runtimeconfig.json
+C:\Users\DELL\source\repos\CA_OnlineStore\CA_OnlineStore\bin\Debug\net8.0\CA_OnlineStore.dll
+C:\Users\DELL\source\repos\CA_OnlineStore\CA_OnlineStore\bin\Debug\net8.0\CA_OnlineStore.pdb
+C:\Users\DELL\source\repos\CA_OnlineStore\CA_OnlineStore\obj\Debug\net8.0\CA_OnlineStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CA_OnlineStore\CA_OnlineStore\obj\Debug\net8.0\CA_OnlineStore.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CA_OnlineStore\CA_OnlineStore\obj\Debug\net8.0\CA_OnlineStore.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CA_OnlineStore\CA_OnlineStore\obj\Debug\net8.0\CA_OnlineStore.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CA_OnlineStore\CA_OnlineStore\obj\Debug\net8.0\CA_OnlineStore.dll
+C:\Users\DELL\source\repos\CA_OnlineStore\CA_OnlineStore\obj\Debug\net8.0\refint\CA_OnlineStore.dll
+C:\Users\DELL\source\repos\CA_OnlineStore\CA_OnlineStore\obj\Debug\net8.0\CA_OnlineStore.pdb
+C:\Users\DELL\source\repos\CA_OnlineStore\CA_OnlineStore\obj\Debug\net8.0\CA_OnlineStore.genruntimeconfig.cache
+C:\Users\DELL\source\repos\CA_OnlineStore\CA_OnlineStore\obj\Debug\net8.0\ref\CA_OnlineStore.dll
